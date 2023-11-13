@@ -1,0 +1,6 @@
+data1={101:"RAHUL",102:"SHAILESH",103:"DEV",104:"SITA",105:"RAJ",106:"GEETA"}
+print("ORIGNINAL DICTIONARY BEFORE REMOVING ELEMENT :",data1)
+print(len(data1))
+a=data1.pop(104)
+print("ORIGNINAL DICTIONARY AFTER REMOVING ELEMENT :",data1)
+print(len(data1))
